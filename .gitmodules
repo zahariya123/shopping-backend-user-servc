@@ -1,0 +1,6 @@
+[submodule "src/submodules/shopping-backend-entities"]
+	path = src/submodules/shopping-backend-entities
+	url = https://github.com/zahariya123/shopping-backend-entities.git
+[submodule "src/submodules/shopping-backend-dto"]
+	path = src/submodules/shopping-backend-dto
+	url = https://github.com/zahariya123/shopping-backend-dto.git

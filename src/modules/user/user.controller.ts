@@ -1,7 +1,7 @@
 /* eslint-disable prettier/prettier */
 /* eslint-disable prefer-const */
 import { Body, Controller, Delete, Get, Param, Post, Put,Query } from '@nestjs/common';
-import { UserDto } from '';
+import { UserDto } from 'src/submodules/shopping-backend-dto/src/dtos/user.dto';
 import { UserService } from './user.service';
 
 @Controller('user')     // .   localhost:3000/user or localhost:3000/user/fetch
